@@ -26,7 +26,7 @@ Exited
 Use **Docker** and run as in Linux
 
 ~~~~
-docker run -v $(pwd):/app frops/git-remove-branhces ./script.sh -m 12
+docker run -v $(pwd):/app frops/git_remove_branches ./script.sh -m 12
 ~~~~
 
 #### Params
